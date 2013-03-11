@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="basic_map">Basic Map</string>
+  <string name="basic_description">Launches a map</string>
+</resources>
