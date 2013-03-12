@@ -9,10 +9,10 @@ import com.example.mapdemo.R;
 
 /**
  * A widget that describes an activity that provides a feature.
- * The widgets can by dynamically added.
  * <p>
  * The widget contains title and description lines.
  * The layout is in layout/feature.xml.
+ * The widgets can by dynamically added.
  * <p>
  * The FeatureView extends FrameLayout which pins each child view within its frame.
  * In constructor inflates its layout by use of LayoutInflater.
